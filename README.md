@@ -4,8 +4,8 @@
 Ashland Catholic is an organization that devotes it's service to the residents of Schuylkill County, Pennsylvania. It is stationed at but not offically affiliated with Saint Charles Borromeo Parsh, Ashland, and is responsible for multiple projects such as the Rosary of Ashland and the Ashland Catholic Billboard.
 
 ###### Reasources:
-- CEO's website: peterschachte.github.io
+- [CEO's Website](https://peterschachte.github.io)
 - [Ashland Rosary Project](https://ashlandcatholic.github.io/ashlandrosary.github.io/)
-- Google Drive folder for members: https://drive.google.com/drive/folders/12DDgbO9VzMBftxjOu1_xLdhNrS4_8dVC?usp=sharing
+- [Files for members](https://drive.google.com/drive/folders/12DDgbO9VzMBftxjOu1_xLdhNrS4_8dVC?usp=sharing)
 
 Contact our CEO via Email: peterpaulschachte@vivaldi.net
