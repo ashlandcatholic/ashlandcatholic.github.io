@@ -8,4 +8,4 @@ Ashland Catholic is an organization that devotes it's service to the residents o
 - [Ashland Rosary Project](https://ashlandcatholic.github.io/ashlandrosary.github.io/)
 - [Files for members](https://drive.google.com/drive/folders/12DDgbO9VzMBftxjOu1_xLdhNrS4_8dVC?usp=sharing)
 
-Contact our CEO via Email: peterpaulschachte@vivaldi.net 
+Contact our CEO via Email: mopuye98.caxebu82@murena.io
